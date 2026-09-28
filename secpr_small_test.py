@@ -1,0 +1,4 @@
+# SecPR small PR test
+
+def add(a, b):
+    return a + b
